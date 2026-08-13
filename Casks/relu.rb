@@ -7,7 +7,7 @@ cask "relu" do
   desc "Keyboard-first native code review app"
   homepage "https://getrelu.app"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "relu.app"
 

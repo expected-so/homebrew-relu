@@ -2,7 +2,7 @@ cask "relu" do
   version "0.1.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/expected-so/relu/releases/download/v#{version}/relu_#{version}_universal.dmg"
+  url "https://github.com/expected-so/homebrew-relu/releases/download/v#{version}/relu_#{version}_universal.dmg"
   name "Relu"
   desc "Keyboard-first native code review app"
   homepage "https://getrelu.app"

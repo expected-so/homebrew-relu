@@ -1,6 +1,6 @@
 cask "relu" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.2"
+  sha256 "5c845c83303a4715a75c461f38108405373aedb96a34198fcba122942654f2cd"
 
   url "https://github.com/expected-so/homebrew-relu/releases/download/v#{version}/relu_#{version}_universal.dmg"
   name "Relu"
